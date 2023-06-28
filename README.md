@@ -14,6 +14,7 @@ const Josi = {
  challenge: "I am doing at least one JavaScript exercise a day"
 }
 ```
+Skills: VUE JS / REACT / JS / HTML / CSS
 
 * 🌍  I'm based in Ecuador
 * 🖥️  See my portfolio at My GitHub
