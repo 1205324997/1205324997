@@ -22,7 +22,7 @@ const Josi = {
 * 🤝  I'm open to collaborating on front-end projects with vanilla javascript
 * ⚡  I love listening to comedy podcasts
 
-![javascript-colored](https://github.com/1205324997/1205324997/assets/122817494/b501402c-9746-4220-a21a-31937e50be57)
+![javascript-colored](https://github.com/1205324997/1205324997/assets/122817494/b501402c-9746-4220-a21a-31937e50be57 | width=200 )
 
 🎓 Education
 Bootcamp Laboratoria 2023
