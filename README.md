@@ -17,11 +17,12 @@ const Josi = {
 
 * 🌍  I'm based in Ecuador
 * 🖥️  See my portfolio at My GitHub
-* ✉️  You can contact me at andreynanavas@gmail.com
+* ✉️  You can contact me at josi.i.dami@gmail.com
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on front-end projects with vanilla javascript
 * ⚡  I love listening to comedy podcasts
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
 🎓 Education
 Bootcamp Laboratoria 2023
 
