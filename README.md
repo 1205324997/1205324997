@@ -35,5 +35,7 @@ SPA, Responsive Design
 Firebase, Firestore
 DOM Manipulation
 Visual Design
+Angular
+Bootstrap
 
  
