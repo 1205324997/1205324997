@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer and a mom. I 
 ```js
 const Josi = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [Node, Firebase, Firestore, Git, GitHub, Jest, Figma, Angular],
+  code: [Javascript, TypeScript, HTML, CSS],
+  tools: [Node, Firebase, Firestore, Git, GitHub, Jest, Figma, Angular, Jasmine, Trello,]
   techCommunities: {
                         bootcamper: "Laboratoria",
                       },
@@ -24,18 +24,19 @@ const Josi = {
 
 
 🎓 Education
-Bootcamp Laboratoria 2023
+Bootcamp Laboratoria Julio 2023
 
 💻 Technical Skills
 Proficient in:
-HTML, CSS, JavaScript
-Git, GitHub
+Angular Framework, HTML, CSS, JavaScript,
+TypeScript, Git, GitHub
 Experience with:
 SPA, Responsive Design
 Firebase, Firestore
 DOM Manipulation
 Visual Design
-Angular
 Bootstrap
+Jest
+Jasmine
 
  
